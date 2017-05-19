@@ -3,7 +3,7 @@ A device that passively monitors the presence of 3D printer filament as a 3D pri
 
 (This device was made as part of a short series of articles on Prototyping which I wrote for Hackaday.com. For more information, visit http://wp.me/pk3lN-14TA )
 
-The design consists of a piece of hardware that is sensitive to orientation. When hanging vertical, it is unpowered and silent. When it is laying flat, the alarm goes off.
+The design consists of a piece of hardware that is sensitive to orientation. When hanging vertical, it is unpowered and silent. When it is laying flat, the alarm goes off. This is done by means of a disc magnet in a channel that holds the magnet away from a reed switch while vertical, and ramps it down towards the reed switch when horizontal.
 
 To do the job of filament monitoring, it dangles (rather like a keychain) from the filament line being fed into a 3D printer's extruder. When the spool runs out, the device falls to the tabletop and begins a piercing audio alarm.
 
