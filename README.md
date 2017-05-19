@@ -10,6 +10,6 @@ To do the job of filament monitoring, it dangles (rather like a keychain) from t
 This design may not be suitable for every 3D printer out there, since they come in so many shapes and sizes and filament orientations, etc. Your printer may not be able to use this device without the device getting in the way of something. It works great for me, but your results may vary.
 
 # Inside and Parts
-Inside the device is a coin cell, a 3V buzzer, a (normally open) reed switch, and a small disc magnet. The wiring is simple: when the magnet triggers the reed switch, the circuit is closed and the buzzer is powered.
+Inside the device is a CR2032 coin cell, a 3V buzzer, a (normally open) reed switch, and a small disc magnet. The wiring is simple: when the magnet triggers the reed switch, the circuit is closed and the buzzer is powered.
 
-The enclosure is held shut with a nylon M3 bolt and nut. The device hangs by a ball link chain (like those found on keychains.)
+The enclosure is held shut with a nylon M3 bolt and nut, and the pressure holds the battery contacts firmly to the coin cell. The device hangs by a ball link chain (like those found on keychains.)
