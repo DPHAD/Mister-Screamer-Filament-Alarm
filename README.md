@@ -12,4 +12,19 @@ This design may not be suitable for every 3D printer out there, since they come 
 # Inside and Parts
 Inside the device is a CR2032 coin cell, a 3V buzzer, a (normally open) reed switch, and a small disc magnet. The wiring is simple: when the magnet triggers the reed switch, the circuit is closed and the buzzer is powered.
 
+The battery area has a small amout of space for small wire or strips of metal to be used as battery contacts. I used a small spring-loaded battery contact for the negative side, and a strip of solder braid for the positive side.
+
 The enclosure is held shut with a nylon M3 bolt and nut, and the pressure holds the battery contacts firmly to the coin cell. The device hangs by a ball link chain (like those found on keychains.)
+
+Electrically the negative side of the coin cell goes to the negative lead of the buzzer. The positive lead of the buzzer goes through the reed switch, to the positive side of the coin cell.  When the magnet closes the reed switch, the circuit is completed.
+
+# List of Parts
+These are the parts I used, if you use different parts be ready to modify the 3D model to fit.
+
+CR2032 3V Coin Cell
+Ball chain (from a keychain)
+Reed Switch, NO - Digi-key part #HE667-ND 
+Disc Magnet : I used 6mm dia x 1.5mm thick, but as low as 1mm thick and as wide as 8mm should work as well.
+Negative battery contact - Digi-key part #36-112CT-ND : soldered to a thin wide and glued to the flat bottom of the battery cavity.
+Positive battery contact - I used a piece of solder braid, a piece of bare wire should work as well.
+Buzzer, 2-5V - Digi-key part #458-1063-ND : in a pinch even 4-6V buzzers seem to work OK with a 3V coin battery.
