@@ -22,9 +22,15 @@ Electrically the negative side of the coin cell goes to the negative lead of the
 These are the parts I used, if you use different parts be ready to modify the 3D model to fit.
 
 CR2032 3V Coin Cell
+
 Ball chain (from a keychain)
+
 Reed Switch, NO - Digi-key part #HE667-ND 
+
 Disc Magnet : I used 6mm dia x 1.5mm thick, but as low as 1mm thick and as wide as 8mm should work as well.
+
 Negative battery contact - Digi-key part #36-112CT-ND : soldered to a thin wide and glued to the flat bottom of the battery cavity.
+
 Positive battery contact - I used a piece of solder braid, a piece of bare wire should work as well.
+
 Buzzer, 2-5V - Digi-key part #458-1063-ND : in a pinch even 4-6V buzzers seem to work OK with a 3V coin battery.
