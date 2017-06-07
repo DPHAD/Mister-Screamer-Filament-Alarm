@@ -1,7 +1,7 @@
 # The "Mister Screamer" 3D Printer Filament Alarm
 A device that passively monitors the presence of 3D printer filament as a 3D printer prints.  It notifies a nearby operator with a piercing alarm (hence the name, "Mister Screamer") when filament runs out.  The idea is to give the nearby operator a chance to feed a new spool right behind the previous one so that printing can continue uninterrupted.
 
-(This device was made as part of a short series of articles on Prototyping which I wrote for Hackaday.com. For more information, visit part one at http://hackaday.com/2017/01/27/lets-prototype-this-filament-end-needs-80-decibels/ and part two (TBD) )
+(This device was made as part of a short series of articles on Prototyping which I wrote for Hackaday.com. For more information, visit part one at http://hackaday.com/2017/01/27/lets-prototype-this-filament-end-needs-80-decibels/ and part two http://hackaday.com/2017/06/07/improving-mister-screamer-an-80-decibel-filament-alarm/ )
 
 The design consists of a piece of hardware that is sensitive to orientation. When hanging vertical, it is unpowered and silent. When it is laying flat, the alarm goes off. This is done by means of a disc magnet in a channel that holds the magnet away from a reed switch while vertical, and ramps it down towards the reed switch when horizontal.
 
