@@ -1,3 +1,5 @@
+![Mister Screamer Filament Alarm](https://github.com/DPHAD/Mister-Screamer-Filament-Alarm/blob/master/Mister%20Screamer%20V2.jpg)
+
 # The "Mister Screamer" 3D Printer Filament Alarm
 A device that passively monitors the presence of 3D printer filament as a 3D printer prints.  It notifies a nearby operator with a piercing alarm (hence the name, "Mister Screamer") when filament runs out.  The idea is to give the nearby operator a chance to feed a new spool right behind the previous one so that printing can continue uninterrupted.
 
